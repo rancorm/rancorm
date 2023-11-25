@@ -1,8 +1,8 @@
-### Howdy netizen 🌷
+### Howdy netizen❗
 
 Welcome to my corner of the internet. My technical sandbox.
 
-✉️ jonathan at cormier dot co
+Human contact: jonathan 🍩 cormier 🍪 co
 
 <!--
 **jcormir/jcormir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
