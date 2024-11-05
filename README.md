@@ -1,8 +1,12 @@
-### Welcome netizen❗
+### Howdy :wave:
 
-My corner of the internet, sandbox of code snippets, projects, and other things I find interesting.
+My corner of the internet.
 
-jonathan🍩cormier🍪co
+| Category | Choice           |
+|:---      |:---              |
+| Editor   | Neovim           |
+| Shell    | Zsh              |
+| Keyboard | Kinesis Adv. 360 |
 
 <!--
 **jcormir/jcormir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
