@@ -2,13 +2,13 @@
 
 My corner of the internet.
 
-| Attribute | Value              |
-|:---       |:---                |
-| Editor    | Neovim             |
-| Shell     | Zsh                |
-| Terminal  | WezTerm            |
-| Keyboard  | Kinesis Adv. 360   |
-| Pointing  | Gameball Trackball |
+| Attribute | Value            |
+|:---       |:---              |
+| Editor    | Neovim           |
+| Shell     | Zsh              |
+| Terminal  | WezTerm          |
+| Keyboard  | Kinesis Adv. 360 |
+| Pointer   | GameBall         |
 
 <!--
 **jcormir/jcormir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
