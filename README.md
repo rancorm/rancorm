@@ -9,7 +9,7 @@ My corner of the internet.
 | Terminal   | WezTerm          |
 | Keyboard   | Kinesis Adv. 360 |
 | Pointer    | GameBall         |
-| Computer   | Mac Mini         |
+| Computer   | Mac mini M2 Pro  |
 | Microphone | Yeti Nano        |
 | Camera     | BRIO             |
 
