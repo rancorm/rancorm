@@ -9,10 +9,10 @@ My corner of the internet.
 | Terminal   | WezTerm         |
 | Keyboard   | Advantage360    |
 | Pointer    | GameBall        |
-| Computer   | Mac mini M2 Pro |
 | Microphone | Yeti Nano       |
 | Headphone  | Momentum 2      |
 | Camera     | BRIO            |
+| Computer   | Mac mini M2 Pro |
 
 <!--
 **jcormir/jcormir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
