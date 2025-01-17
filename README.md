@@ -1,6 +1,6 @@
 ### Howdy :wave:
 
-My corner of the internet.
+Welcome to my corner of the internet.
 
 | Attribute  | Value           |
 |:---        |:---             |
