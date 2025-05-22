@@ -1,6 +1,4 @@
-### Howdy :wave:
-
----
+## Howdy :wave:
 
 Welcome to my corner of the internet.
 
