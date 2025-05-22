@@ -1,12 +1,14 @@
 ### Howdy :wave:
 
+---
+
 Welcome to my corner of the internet.
 
 | Attribute  | Value           |
 |:---        |:---             |
 | Editor     | Neovim          |
 | Shell      | Zsh             |
-| Terminal   | WezTerm         |
+| Terminal   | Ghostty         |
 | Keyboard   | Advantage360    |
 | Pointer    | GameBall        |
 | Microphone | Yeti Nano       |
