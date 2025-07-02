@@ -2,16 +2,13 @@
 
 Welcome to my corner of the internet.
 
-| Software |            |
-|:---------|:-----------|
-| Editor   | Neovim     |
-| Shell    | Zsh        |
-| Terminal | Ghostty    |
-| Browser  | Brave      |
-| Email    | ProtonMail |
-
-| Hardware   |                  |
+| Component  | Details          |
 |:-----------|:-----------------|
+| Editor     | Neovim           |
+| Shell      | Zsh              |
+| Terminal   | Ghostty          |
+| Browser    | Brave            |
+| Email      | ProtonMail       |
 | Display    | C49RG9x + P2217H |
 | Keyboard   | Advantage360     |
 | Pointer    | GameBall         |
