@@ -2,15 +2,23 @@
 
 Welcome to my corner of the internet.
 
-| Software |            | Hardware   |                 |
-|:---------|:-----------|:-----------|:----------------|
-| Editor   | Neovim     | Display    | C49RG9x+P2217H  |
-| Shell    | Zsh        | Keyboard   | Advantage360    |
-| Terminal | Ghostty    | Pointer    | GameBall        |
-| Browser  | Brave      | Microphone | Yeti Nano       |
-| Email    | ProtonMail | Headphone  | Momentum 2      |
-|          |            | Camera     | BRIO            |
-|          |            | Computer   | Mac mini M2 Pro |
+| Software |            |
+|:---------|:-----------|
+| Editor   | Neovim     |
+| Shell    | Zsh        |
+| Terminal | Ghostty    |
+| Browser  | Brave      |
+| Email    | ProtonMail |
+
+| Hardware   |                  |
+|:-----------|:-----------------|
+| Display    | C49RG9x + P2217H |
+| Keyboard   | Advantage360     |
+| Pointer    | GameBall         |
+| Microphone | Yeti Nano        |
+| Headphone  | Momentum 2       |
+| Camera     | BRIO             |
+| Computer   | Mac mini M2 Pro  |
 
 <!--
 **jcormir/jcormir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
