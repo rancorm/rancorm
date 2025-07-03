@@ -9,13 +9,16 @@ Welcome to my corner of the internet.
 | Terminal   | Ghostty          |
 | Browser    | Brave            |
 | Email      | ProtonMail       |
-| Display    | C49RG9x + P2217H |
+| Displays   | C49RG9x          |
+|            | P2217H           |
 | Keyboard   | Advantage360     |
 | Pointer    | GameBall         |
 | Microphone | Yeti Nano        |
 | Headphone  | Momentum 2       |
 | Camera     | BRIO             |
-| Computer   | Mac mini M2 Pro  |
+| Computers  | Mac mini M2 Pro  |
+|            | MacBook Air M3   |
+|            | ZenBook i7-8565U |
 
 <!--
 **jcormir/jcormir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
