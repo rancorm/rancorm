@@ -1,4 +1,4 @@
-## Howdy :wave:
+## Howdy, netizen :wave:
 
 Welcome to my corner of the internet.
 
@@ -7,7 +7,7 @@ Welcome to my corner of the internet.
 | Editor     | Neovim           |
 | Shell      | Zsh              |
 | Terminal   | Ghostty          |
-| Browser    | Brave            |
+| Browser    | Zen              |
 | Email      | ProtonMail       |
 | Displays   | C49RG9x          |
 |            | P2217H           |
@@ -19,6 +19,7 @@ Welcome to my corner of the internet.
 | Computers  | Mac mini M2 Pro  |
 |            | MacBook Air M3   |
 |            | ZenBook i7-8565U |
+| Smartphone | iPhone 14 Pro    |
 
 <!--
 **jcormir/jcormir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
